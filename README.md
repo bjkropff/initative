@@ -1,6 +1,6 @@
 
 Open command line
 
-navigate to testang `cd Sites/testang/`
+navigate to testang `cd testang`
 
 run `gulp serve`
